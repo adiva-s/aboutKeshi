@@ -1,0 +1,26 @@
+-- Sources --
+
+ -- keshiName.png/k.png - https://www.keshimusic.com/#/
+ -- thereaper.png - https://images.genius.com/60ce32e0db63d318bb978d5c5cd4678f.1000x1000x1.png
+ -- gabriel.jpg - https://m.media-amazon.com/images/I/610ps7rUjaL._UF1000,1000_QL80_.jpg
+ -- always.png - https://images.genius.com/de1a5a74dc9777183f11e66cc08095f7.1000x1000x1.png
+
+
+- all lyrics from genius lyrics
+    -> GABRIEL ALBUM
+   -- https://genius.com/Keshi-limbo-lyrics
+   -- https://genius.com/Keshi-westside-lyrics
+   -- https://genius.com/Keshi-angostura-lyrics
+   -- https://genius.com/Keshi-somebody-lyrics
+    -> the reaper ALBUM
+   -- https://genius.com/Keshi-the-reaper-lyrics
+   -- https://genius.com/Keshi-like-i-need-u-lyrics
+   -- https://genius.com/Keshi-2-soon-lyrics
+   -- https://genius.com/Keshi-i-swear-ill-never-leave-again-lyrics
+    -> always ALBUM
+  -- https://genius.com/Keshi-always-lyrics
+  -- https://genius.com/Keshi-more-lyrics
+  -- https://genius.com/Keshi-drunk-lyrics
+  -- https://genius.com/Keshi-talk-lyrics
+  -- https://genius.com/Keshi-bys-lyrics
+  -- https://genius.com/Keshi-us-lyrics
